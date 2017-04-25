@@ -1,0 +1,9 @@
+Hey Yllias,
+
+I was just wondering where to find the corpus for the scheduling?
+
+Do we make one? The Enron dataset that I used for the previous assignment has spam/no spam emails, but I can't seem to find any dataset online for email scheduling.  I don't think there is one from nltk's corpora either!
+
+Thanks a bunch,
+
+Adam
